@@ -9,9 +9,6 @@ profile:
   image: guanhua.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Pfaffenwaldring 5a</p>
-    <p>Stuttgart, Germany</p>
-    <p><a href="mailto:guanhua.zhang@vis.uni-stuttgart.de">guanhua.zhang@vis.uni-stuttgart.de</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
