@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Guanhua Zhang # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Guanhua
 middle_name:
 last_name: Zhang (张冠华)
@@ -104,7 +104,6 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-    <p><a href="mailto:guanhua.zhang@vis.uni-stuttgart.de">guanhua.zhang@vis.uni-stuttgart.de</a></p>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
