@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am now a PhD student in the [Perceptual User Interfaces group](https://perceptualui.org), Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Andreas Bulling](https://perceptualui.org/people/bulling/) since September 2020. I also joined **the International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de) since February 2021.
+I am now a PhD student in the [Perceptual User Interfaces group](https://perceptualui.org), Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Andreas Bulling](https://perceptualui.org/people/bulling/) since September 2020. I also joined the **International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de) since February 2021.
 
 I got my master's degree in computer science and technology from Department of Computer Science and Technology at **Tsinghua University**, supervised by [Prof. Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm) in June 2020, and a bachelor's degree in computer science and technology from the School of Computer Science at **Beijing University of Posts and Telecommunications** in June 2017.
 
