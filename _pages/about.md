@@ -9,6 +9,7 @@ profile:
   image: guanhua.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Office:</p>
     <p>Pfaffenwaldring 5a</p>
     <p>Stuttgart, Germany</p>
 
