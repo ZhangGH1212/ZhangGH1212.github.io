@@ -70,22 +70,34 @@
   contents:
     - year: 2023
       items: 
-        - Best Doctoral Student Paper Nomination, INTERACT'23
+        - Best Doctoral Student Paper Nomination
+      institution:
+        - INTERACT'23
     - year: 2022
       items: 
-        - 2021 Hot paper (with co-authors), SCIENTIA SINICA Informationis
+        - 2021 Hot paper (with co-authors)
+      institution:
+        - SCIENTIA SINICA Informationis
     - year: 2019
-      items: 
+      items:
         - Gemalto Scholarship
+      institution: 
+        - Department of Computer Science and Technology, Tsinghua University
     - year: 2018-2019
       items: 
-        - Students' Union Vice President
-    - year: 2014 - 2016
-      items: 
-        - Merit Student
+        - Students' Union Vice President 
+      institution: 
+        - Department of Computer Science and Technology, Tsinghua University
     - year: 2014 - 2016
       items:
-        - University Scholarship
+        - University Scholarship; Merit Student
+      institution:
+        - Beijing University of Posts and Telecommunications
+    - year: 2012
+      items:
+        - Second Prize at National Olympiad in Informatics in Provinces (NOIP)
+      institution:
+        - Shandong Province
 
 
 # - title: Academic Interests
