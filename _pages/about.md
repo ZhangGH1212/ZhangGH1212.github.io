@@ -23,4 +23,4 @@ I got my master's degree in computer science and technology from Department of C
 
 My research interests are in HCI+AI, including computational interaction, user modeling, affective computing, and representation learning.
 
-**<span style="color:red">I'm on the job market for relevant industry positions or postdoc positions. Feel free to contact me if there are any opportunities!**</span>
+<span style="color:red">**I'm on the job market for relevant industry positions or postdoc positions. Feel free to contact me if there are any opportunities!**</span>
