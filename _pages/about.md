@@ -22,3 +22,5 @@ I am now a PhD student in the [Perceptual User Interfaces group](https://percept
 I got my master's degree in computer science and technology from Department of Computer Science and Technology at **Tsinghua University**, supervised by [Prof. Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm) in June 2020, and a bachelor's degree in computer science and technology from the School of Computer Science at **Beijing University of Posts and Telecommunications** in June 2017.
 
 My research interests are in HCI+AI, including computational interaction, affective computing, and representation learning.
+
+**I'm on the job market for relevant industry positions or postdoc positions. Feel free to reach out if there are any opportunities!**
