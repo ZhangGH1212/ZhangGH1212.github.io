@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-EmoRec EEG workshop at ACII’24
+EmoRec EEG Workshop at ACII’24
