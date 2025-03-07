@@ -17,8 +17,10 @@ academic_service: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Applied Scientist at **Zalando SE** since November 2024. Before this, I was a PhD researcher in the [Perceptual User Interfaces group](https://perceptualui.org), Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Andreas Bulling](https://perceptualui.org/people/bulling/) since September 2020. I also joined the **International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de) since February 2021, guided by the thesis advisory committee consisting of Prof. Andreas Bulling, [Prof. Steffen Staab](https://www.simtech.uni-stuttgart.de/exc/people/Staab-00002/) and [Prof. Katherine J. Kuchenbecker](https://is.mpg.de/~kjk).
+I am an Applied Scientist at **Zalando**, working on fraud detection in transactions.
 
-I got my master's degree in computer science and technology from Department of Computer Science and Technology at **Tsinghua University**, supervised by [Prof. Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm) in June 2020, and a bachelor's degree in computer science and technology from the School of Computer Science at **Beijing University of Posts and Telecommunications** in June 2017.
+I achieved my PhD degree with a magna cum laude in Feb 2025, from the Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Dr. Andreas Bulling](https://www.collaborative-ai.org/people/bulling/). I was also affiliated with the **International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de), guided by the thesis advisory committee consisting of Prof. Andreas Bulling, [Prof. Dr. Steffen Staab](https://www.simtech.uni-stuttgart.de/exc/people/Staab-00002/) and [Prof. Dr. Katherine J. Kuchenbecker](https://is.mpg.de/~kjk).
+
+I got my master's degree in computer science and technology in June 2020, from Department of Computer Science and Technology at **Tsinghua University**, supervised by [Prof. Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), and a bachelor's degree in computer science and technology in June 2017 from the School of Computer Science at **Beijing University of Posts and Telecommunications**.
 
 My research interests are in applied machine learning, including user modeling, affective computing, and representation learning.
