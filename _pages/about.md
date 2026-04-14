@@ -17,7 +17,7 @@ academic_service: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Applied Scientist at **Zalando**, working on fraud detection in transactions.
+I am an Applied Scientist at **Zalando**, working on fraud detection.
 
 I achieved my PhD degree with <i class="fa fa-award" style="color:gold"/> magna cum laude in Feb 2025, from the Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Dr. Andreas Bulling](https://www.collaborative-ai.org/people/bulling/). I was also affiliated with the **International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de), guided by the thesis advisory committee consisting of Prof. Andreas Bulling, [Prof. Dr. Steffen Staab](https://www.simtech.uni-stuttgart.de/exc/people/Staab-00002/) and [Prof. Dr. Katherine J. Kuchenbecker](https://is.mpg.de/~kjk).
 
